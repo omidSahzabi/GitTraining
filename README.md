@@ -1,4 +1,7 @@
 # Paragrath hidden btn ptoject
+
+![banner](https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/repo-header-image.png)
+
 in this _project_ we made a button which by clicking on it you can **dissapear** a paragragh.
 **languages used in the project:**
 - Html
