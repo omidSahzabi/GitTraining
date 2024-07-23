@@ -7,6 +7,7 @@ in this _project_ we made a button which by clicking on it you can **dissapear**
 - Html
 - css
 - Js
+
  **how much from ich :**
   
 |percent | language |
